@@ -26,5 +26,3 @@ Pas de ligne d'en-tête. 4 colonnes :
 | Écriture | 14:39 → 14:41 | 15:10 → 15:12 |
 | Clavier | 14:43 → 14:45 | 15:13 → 15:15 |
 | Marche | 14:47 → 14:49 | 15:16 → 15:18 |
-
-Chaque fichier fait moins de 6 Mo (limite GitHub : 50 Mo).
