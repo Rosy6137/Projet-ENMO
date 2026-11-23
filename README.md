@@ -27,8 +27,8 @@ Chaque dossier contient son propre `readme.md`.
 
 ## Dispositif de mesure
 - **Participants :** 2 (Daniel, gaucher ; Said, droitier).
-- **Capteurs :** Axivity **AX6 au poignet gauche**, **AX3 au poignet droit**, environ 100 mesures par seconde. L'AX3 enregistre jusqu'à ±8 g, avec une précision de 15,6 mg ; l'AX6 a une précision de 0,24 mg.
-- **Tâches :** 4 tâches de 2 minutes, dans le même ordre pour les deux participants :
+- **Capteurs :** Axivity **AX6 au poignet gauche**, **AX3 au poignet droit**, environ 100 mesures par seconde. L'AX3 enregistre jusqu'à ±8 g avec une précision de 15,6 mg et l'AX6 a une précision de 0,24 mg.
+- **Tâches :** 4 tâches de 2 minutes dans le même ordre pour les deux participants :
   1. **Repos assis**, bras posés sur la table (condition de référence) ;
   2. **Écriture manuscrite**, copie d'un texte avec la main habituelle ;
   3. **Clavier**, saisie d'un texte sur ordinateur ;
@@ -36,8 +36,8 @@ Chaque dossier contient son propre `readme.md`.
 - **Données :** les heures de début et de fin de chaque tâche ont été notées pendant la séance (7 novembre 2026). Les enregistrements ont ensuite été exportés en CSV (temps, x, y, z en g).
 
 ## Méthode
-1. **Contrôle qualité :** fréquence, trous, valeurs manquantes, précision, saturation, durée de chaque tâche.
-2. **Correction de calibration :** au repos, la norme doit valoir 1 g. Les capteurs mesuraient de 0,949 à 1,040 g, donc la norme de chaque capteur est divisée par sa valeur moyenne au repos.
+1. **Contrôle qualité :** fréquence, trous, valeurs manquantes, précision, saturation et durée de chaque tâche.
+2. **Correction de calibration :** au repos la norme doit valoir 1 g. Les capteurs mesuraient de 0,949 à 1,040 g donc la norme de chaque capteur est divisée par sa valeur moyenne au repos.
 3. **ENMO** = max(‖a‖ − 1 g, 0), en mg (van Hees et al., 2013).
 4. **Indice d'asymétrie** = (ENMO droit − ENMO gauche) / (ENMO droit + ENMO gauche), calculé pour chaque participant : 0 = symétrique, +1 = tout à droite, −1 = tout à gauche.
 5. **Solidité :** indice recalculé sur des fenêtres de 5 s.
