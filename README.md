@@ -44,4 +44,4 @@ Chaque dossier contient son propre `readme.md`.
 6. **Interprétation et conseil santé.**
 
 ## Équipe
-*À compléter : noms des membres du groupe.*
+Rosy BOUTOUOM; Zakia HAMMAINI, Daniel REYES; Said RODRIGUEZ
